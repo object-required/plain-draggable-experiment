@@ -1,0 +1,17 @@
+html,
+body,
+#app {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+}
+
+.polkadot {
+    background-image: radial-gradient(#212121cc 20%, transparent 20%),
+        radial-gradient(#fafafacc 20%, transparent 20%);
+    background-color: #2b4d8d;
+    background-position: 0 0, 50px 50px;
+    background-size: 100px 100px;
+}
